@@ -1,2 +1,5 @@
 Hello student
+<<<<<<< HEAD
 I love git.
+=======
+>>>>>>> 2c5b3adc9b9d3711550886ffd024248eda030b2c
